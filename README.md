@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/127431353?v=4" align="center" style="width: 50%" />
-</div>  
-  
-
-### <div align="center">I'm Joel, a full-stack freelance developer form germany  👨‍💻 working for fun since 2023 🚀🇩🇪</div>  
+### <div align="center">I'm Joel, a full-stack freelance developer from germany  👨‍💻 working for fun since 2023 🚀🇩🇪</div>  
   
 
 
